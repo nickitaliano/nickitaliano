@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Nick. I'm a developer and amateur musician:music:. I'm enjoying learning and applying Apache frameworks.
+I'm Nick. I'm a freelance data engineer and amateur musician:music:. I'm enjoying learning and working Apache frameworks.
 
 * 🌐 Website: https://nickitaliano.io
-* :ring: Join my webring: https://hotlinewebring.club
+* 🔭 I’m currently working on data-driven music apps and frameworks
+* 🌱 I’m currently learning Apache Kafka
 * 📫 How to reach me: nickitaliano.io@gmai.com
-* :star: Pronouns: he/him
-
+* 😄 Pronouns: he/him
+* ⚡ Fun fact: I'm in the same scientific research honor society, Sigma Xi, as Alber Einstein, Robert Feynman, etc. 
 <!--
 **nickitaliano/nickitaliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+* :ring: Join my webring: https://hotlinewebring.club
 
 ![](https://github.com/nickitaliano/nickitaliano/blob/master/banner.jpeg)
 
