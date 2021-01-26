@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![](https://github.com/nickitaliano/nickitaliano/blob/master/banner.jpeg)
 
@@ -39,3 +39,4 @@ In my free time I've built and maintain various open-source projects of my own l
 I also co-organise [monthly user group events](https://fullstackbelgium.be/) here in Belgium in the cities of Antwerp and Ghent. And I co-organise the [Full Stack Europe](https://fullstackeurope.com/) conference here in Antwerp. Occasionally, I also speak at conferences and user groups. I'm also working on [a new project for organising events called Eventy](https://eventy.io). And I also blog from time to time about various things on [my website](https://driesvints.com).
 
 Working on open-source is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
+-->
