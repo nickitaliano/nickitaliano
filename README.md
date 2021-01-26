@@ -1,6 +1,6 @@
 ### Hi there✌🏽
 
-I'm Nick. I'm a freelance data engineer and amateur musician. I enjoy learning mathematical and musical subject matter!
+I'm Nick, an amateur musician and freelance data engineer. I enjoy learning about data-driven streaming applications!
 * 🌐 Website: https://nickitaliano.io
 * 🔭 I’m currently working on data-driven music apps and frameworks
 * 🌱 I’m currently learning Apache Kafka
