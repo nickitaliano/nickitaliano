@@ -1,10 +1,10 @@
 ### Hi there✌🏽
 
-I'm Nick, an amateur musician and freelance data engineer. I enjoy learning about data-driven streaming applications!
+I'm Nick, an amateur musician and freelance data engineer. I enjoy learning about data-driven analyses and web applications!
 * 🌐 Website: https://nickitaliano.io
-* 🔭 I’m currently working on data-driven music apps and frameworks
+* 🔭 I’m currently working on Music Information Retrieval(MIR) analyses and streaming apps 
 * 🌱 I’m currently learning Apache Kafka
-* 📫 How to reach me: nickitaliano.io@gmai.com
+* 📫 How to reach me: nickitaliano.io@gmail.com
 * 👤 Pronouns: he/him
 * ⚡️ Fun fact: I'm in the same scientific research honor society, Sigma Xi, as Albert Einstein, Robert Feynman, etc...🤓 
 <!--
