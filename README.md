@@ -6,7 +6,7 @@ I'm Nick, an amateur musician and freelance data engineer. I enjoy learning abou
 * 🌱 I’m currently learning Apache Kafka
 * 📫 How to reach me: nickitaliano.io@gmail.com
 * 👤 Pronouns: he/him
-* ⚡️ Fun fact: I'm in the same scientific research honor society, Sigma Xi, as Albert Einstein, Robert Feynman, etc...🤓 
+* 🤓 Fun fact: I'm in the same scientific research honor society, Sigma Xi, as Albert Einstein, Robert Feynman e,tc... 
 <!--
 **nickitaliano/nickitaliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
