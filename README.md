@@ -2,7 +2,7 @@
 
 I'm Nick, an amateur musician and freelance data engineer. I enjoy learning about data-driven analyses and web applications!
 * 🌐 Website: https://nickitaliano.io
-* 🔭 I’m currently working on *Music Information Retrieval(MIR)* analyses and streaming apps 
+* 🔭 I’m currently working on *The Data Warehouse Tool Kit: The Definitive Guide to Dimensional Modeling, Third Edition* by Kimball
 * 🌱 I’m currently learning iOS app development
 * 📫 How to reach me: nickitaliano.io@gmail.com
 * 👤 Pronouns: he/him
