@@ -3,7 +3,7 @@
 I'm Nick, an amateur musician and freelance data engineer. I enjoy learning about data-driven analyses and web applications!
 * 🌐 Website: https://nickitaliano.io
 * 🔭 I’m currently working on *The Data Warehouse Tool Kit: The Definitive Guide to Dimensional Modeling, Third Edition* by Kimball
-* 🌱 I’m currently learning iOS app development
+* 🌱 I’m currently learning Kakfa-Flume-Spark development
 * 📫 How to reach me: nickitaliano.io@gmail.com
 * 👤 Pronouns: he/him
 * 🤓 Fun fact: I'm in the same scientific research honor society-- **Sigma Xi**-- as Albert Einstein, Robert Feynman, etc... 
